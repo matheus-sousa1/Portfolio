@@ -650,7 +650,7 @@ header {
     display: 3rem;
   }
   .heading {
-    font-size: 3rem;
+    font-size: 1.8rem;
   }
   .about-data h2 {
     font-size: 1.5rem;
@@ -667,6 +667,13 @@ header {
   }
   .review-box .review-text {
     font-size: 0.82rem;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 200px;
+    padding: 20px 0;
   }
 }
 
