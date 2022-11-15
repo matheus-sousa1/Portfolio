@@ -22,3 +22,5 @@ Esse é meu portfolio onde vou colocar os meus melhores projetos
 [![portfolio](https://img.shields.io/badge/portfolio-15211b?style=for-the-badge&logo=myportfolio&logoColor=white)](https://matheus-sousa1.github.io/Portfolio/)
 
 ## autor 
+
+[Matheus sousa](https://github.com/matheus-sousa1)
